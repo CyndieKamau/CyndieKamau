@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me : I am an AWS Solutions Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as a Cloud Solutions Architect configuring and maintaining hybrid cloud infrastructure.
+- :telescope: I’m currently the Dev Rel lead @CeloAfricaDao and a junior developer @Nethermind
 
-- :seedling: Creating Blockchain Projects on Polkadot, Celo.
+- :seedling: Using Rust to create Blockchain Infrastructure
 
-- :zap: In my free time, I create content on AWS architecture and Blockchain Development.
+- :zap: In my free time, I create content on Cloud Computing and Blockchain Technology, while contributing to Starknet
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cynthiakamau/)
 
